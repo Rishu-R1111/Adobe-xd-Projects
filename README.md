@@ -4,17 +4,12 @@ DESIGNS
 
 
 -------------------------
-TO-DO List App UI
--------------------------
-
-![Screenshot (23)](https://user-images.githubusercontent.com/62838398/88914576-76dc0900-d280-11ea-8415-0564c45587e9.png)
-
-
-
--------------------------
 Web-Dev
 -------------------------
 
+-------------------------
+TRAVLLING AGENCY-Landding page 
+-------------------------
 
 ![Adobe XD 05-08-2020 01_44_23](https://user-images.githubusercontent.com/62838398/89340439-603d1400-d6bd-11ea-9a5b-aceef714ffaf.png)
 
@@ -28,6 +23,14 @@ Clean-Now :-landding page UI design
 ![Screenshot (19)](https://user-images.githubusercontent.com/62838398/88912635-2dd68580-d27d-11ea-8b29-abebcc802fc2.png)
 ![Screenshot (20)](https://user-images.githubusercontent.com/62838398/88912637-2fa04900-d27d-11ea-8878-d3ca1852dc08.png)
 ![Screenshot (21)](https://user-images.githubusercontent.com/62838398/88912641-3202a300-d27d-11ea-963b-dee787d797e1.png)
+
+-------------------------
+TO-DO List App UI
+-------------------------
+
+![Screenshot (23)](https://user-images.githubusercontent.com/62838398/88914576-76dc0900-d280-11ea-8415-0564c45587e9.png)
+
+
 
 -------------------------
 IOS Ui kit
