@@ -8,13 +8,13 @@ Web-Dev
 -------------------------
 
 -------------------------
-TRAVLLING AGENCY-Landding page 
+Travel India - Landding page Design
 -------------------------
 
 ![Adobe XD 05-08-2020 01_44_23](https://user-images.githubusercontent.com/62838398/89340439-603d1400-d6bd-11ea-9a5b-aceef714ffaf.png)
 
 -------------------------
-Clean-Now :-landding page UI design
+Clean-Now :-landding page design
 -------------------------
 
 ![Screenshot (16)](https://user-images.githubusercontent.com/62838398/88912346-c6203a80-d27c-11ea-887b-7ba71bb9628f.png)
