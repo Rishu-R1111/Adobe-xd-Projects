@@ -7,6 +7,11 @@ DESIGNS
 Web-Dev
 -------------------------
 
+-------------------------
+coocacola - Landing page Design
+-------------------------
+
+![Screenshot (250)](https://user-images.githubusercontent.com/62838398/107863966-0abc9d80-6e7e-11eb-8c1b-e78c213ca749.png)
 
 -------------------------
 food - Landing page Design
