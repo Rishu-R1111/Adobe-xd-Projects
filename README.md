@@ -11,9 +11,9 @@ Web-Dev
 coocacola - Landing page Design
 -------------------------
 
+![Screenshot (288)](https://user-images.githubusercontent.com/62838398/107864540-4312aa80-6e83-11eb-8a37-d20831c5dac6.png)
 ![Screenshot (250)](https://user-images.githubusercontent.com/62838398/107863966-0abc9d80-6e7e-11eb-8c1b-e78c213ca749.png)
 ![Screenshot (285)](https://user-images.githubusercontent.com/62838398/107864493-97695a80-6e82-11eb-96ca-5c4dec855238.png)
-![Screenshot (286)](https://user-images.githubusercontent.com/62838398/107864495-9d5f3b80-6e82-11eb-8fdf-c9a5f0ac3bd5.png)
 ![Screenshot (287)](https://user-images.githubusercontent.com/62838398/107864497-a5b77680-6e82-11eb-9beb-92a86a32fe28.png)
 
 
