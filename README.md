@@ -8,7 +8,7 @@ Web-Dev
 -------------------------
 
 -------------------------
-coocacola - Landing page Design
+Cocacola - Landing page Design
 -------------------------
 
 ![Screenshot (288)](https://user-images.githubusercontent.com/62838398/107864540-4312aa80-6e83-11eb-8a37-d20831c5dac6.png)
