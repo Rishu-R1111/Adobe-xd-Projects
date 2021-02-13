@@ -7,14 +7,25 @@ DESIGNS
 Web-Dev
 -------------------------
 
+
 -------------------------
-Travel India - Landding page Design
+food - Landing page Design
+-------------------------
+
+![Screenshot (280)](https://user-images.githubusercontent.com/62838398/107863899-ae597e00-6e7d-11eb-8bb0-ff2036f3b390.png)
+![Screenshot (281)](https://user-images.githubusercontent.com/62838398/107863904-b9aca980-6e7d-11eb-8b89-b81261bd8ad8.png)
+![Screenshot (282)](https://user-images.githubusercontent.com/62838398/107863906-bd403080-6e7d-11eb-93ea-79cda4eb1424.png)
+![Screenshot (283)](https://user-images.githubusercontent.com/62838398/107863907-c16c4e00-6e7d-11eb-9003-35f0f05ff177.png)
+![Screenshot (284)](https://user-images.githubusercontent.com/62838398/107863908-c29d7b00-6e7d-11eb-8d1c-c70a81f23380.png)
+
+-------------------------
+Travel India - Landing page Design
 -------------------------
 
 ![Adobe XD 05-08-2020 01_44_23](https://user-images.githubusercontent.com/62838398/89340439-603d1400-d6bd-11ea-9a5b-aceef714ffaf.png)
 
 -------------------------
-Clean-Now :-landding page design
+Clean-Now :-landing page design
 -------------------------
 
 ![Screenshot (16)](https://user-images.githubusercontent.com/62838398/88912346-c6203a80-d27c-11ea-887b-7ba71bb9628f.png)
