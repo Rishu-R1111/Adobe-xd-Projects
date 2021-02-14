@@ -17,6 +17,12 @@ https://user-images.githubusercontent.com/62838398/107864854-a225ee80-6e86-11eb-
 
 
 ------------------------
+Dashboard - Design
+-------------------------
+![Screenshot (290)](https://user-images.githubusercontent.com/62838398/107864928-9686f780-6e87-11eb-882c-859047eef60b.png)
+
+
+------------------------
 3D menu - Design
 -------------------------
 
