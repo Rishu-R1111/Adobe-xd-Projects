@@ -15,13 +15,6 @@ Hover - Design
 
 https://user-images.githubusercontent.com/62838398/107864854-a225ee80-6e86-11eb-8f78-3db652164a31.mp4
 
-
-------------------------
-Dashboard - Design
--------------------------
-![Screenshot (290)](https://user-images.githubusercontent.com/62838398/107864928-9686f780-6e87-11eb-882c-859047eef60b.png)
-
-
 ------------------------
 3D menu - Design
 -------------------------
@@ -48,6 +41,15 @@ food - Landing page Design
 ![Screenshot (282)](https://user-images.githubusercontent.com/62838398/107863906-bd403080-6e7d-11eb-93ea-79cda4eb1424.png)
 ![Screenshot (283)](https://user-images.githubusercontent.com/62838398/107863907-c16c4e00-6e7d-11eb-9003-35f0f05ff177.png)
 ![Screenshot (284)](https://user-images.githubusercontent.com/62838398/107863908-c29d7b00-6e7d-11eb-8d1c-c70a81f23380.png)
+
+
+
+------------------------
+Dashboard - Design
+-------------------------
+![Screenshot (290)](https://user-images.githubusercontent.com/62838398/107864928-9686f780-6e87-11eb-882c-859047eef60b.png)
+
+
 
 -------------------------
 Travel India - Landing page Design
